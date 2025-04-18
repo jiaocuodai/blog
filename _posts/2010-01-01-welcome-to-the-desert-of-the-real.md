@@ -2,7 +2,7 @@
 date: 2025-04-16 19:08:00
 layout: post
 title: 发刊词｜几个人，在边上说话
-subtitle: '在停顿与重新言语之后，我们想试试这种写作的可能性。'
+subtitle: "在停顿与重新言语之后，我们想试试这种写作的可能性。"
 image: >-
   https://raw.githubusercontent.com/jiaocuodai/blog/2bda9ce6cc78cd7f0891b53a00f3da77ddee5de8/assets/img/uploads/01postcard.JPG
 optimized_image: >-
@@ -14,6 +14,7 @@ tags:
 author: 交错带
 paginate: true
 ---
+
 我们正在开始一个边境写作计划。我们暂时叫它“交错带”。
 
 我们说的“交错”，不是比喻，而是一些真实存在的情况：
