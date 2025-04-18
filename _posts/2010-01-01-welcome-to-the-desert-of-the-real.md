@@ -2,14 +2,11 @@
 date: 2025-04-16 19:08:00
 layout: post
 title: 发刊词｜几个人，在边上说话
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
-description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+subtitle: '在停顿与重新言语之后，我们想试试这种写作的可能性。'
 image: >-
-  https://mmbiz.qpic.cn/sz_mmbiz_jpg/MpAunQa9m3EoASd26B5F7askVgXsR5QC33r55lJ2WTdwAylETNoVKlsNgcuuK7ibPhrOCYafFdK23tuAAFtZ2tQ/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1
+  /assets/img/uploads/01发刊词.JPG
 optimized_image: >-
-  https://mmbiz.qpic.cn/sz_mmbiz_jpg/MpAunQa9m3EoASd26B5F7askVgXsR5QC33r55lJ2WTdwAylETNoVKlsNgcuuK7ibPhrOCYafFdK23tuAAFtZ2tQ/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1
+  /assets/img/uploads/01发刊词.JPG
 category: blog
 tags:
   - welcome
