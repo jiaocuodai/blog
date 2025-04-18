@@ -7,7 +7,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.JPG" 
+<img class="img-rounded" src="https://cdn.jsdelivr.net/gh/jiaocuodai/blog@master/assets/img/uploads/profile.JPG" 
 alt="jiaocuodai" width="200">
 
 # About
