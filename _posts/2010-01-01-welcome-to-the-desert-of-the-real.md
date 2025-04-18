@@ -4,9 +4,9 @@ layout: post
 title: 发刊词｜几个人，在边上说话
 subtitle: '在停顿与重新言语之后，我们想试试这种写作的可能性。'
 image: >-
-  https://github.com/jiaocuodai/blog/blob/2bda9ce6cc78cd7f0891b53a00f3da77ddee5de8/assets/img/uploads/01postcard.JPG
+  https://raw.githubusercontent.com/jiaocuodai/blog/2bda9ce6cc78cd7f0891b53a00f3da77ddee5de8/assets/img/uploads/01postcard.JPG
 optimized_image: >-
-  https://github.com/jiaocuodai/blog/blob/2bda9ce6cc78cd7f0891b53a00f3da77ddee5de8/assets/img/uploads/01postcard.JPG
+  https://raw.githubusercontent.com/jiaocuodai/blog/2bda9ce6cc78cd7f0891b53a00f3da77ddee5de8/assets/img/uploads/01postcard.JPG
 category: blog
 tags:
   - welcome
