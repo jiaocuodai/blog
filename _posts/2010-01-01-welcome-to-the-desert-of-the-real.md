@@ -1,130 +1,68 @@
 ---
-date: 2019-05-16 23:48:05
+date: 2025-04-16 19:08:00
 layout: post
-title: Welcome to the desert of the real
+title: 发刊词｜几个人，在边上说话
 subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+  https://mmbiz.qpic.cn/sz_mmbiz_jpg/MpAunQa9m3EoASd26B5F7askVgXsR5QC33r55lJ2WTdwAylETNoVKlsNgcuuK7ibPhrOCYafFdK23tuAAFtZ2tQ/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+  https://mmbiz.qpic.cn/sz_mmbiz_jpg/MpAunQa9m3EoASd26B5F7askVgXsR5QC33r55lJ2WTdwAylETNoVKlsNgcuuK7ibPhrOCYafFdK23tuAAFtZ2tQ/640?wx_fmt=jpeg&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1
 category: blog
 tags:
   - welcome
   - blog
-author: mranderson
+author: 交错带
 paginate: true
 ---
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+我们正在开始一个边境写作计划。我们暂时叫它“交错带”。
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+我们说的“交错”，不是比喻，而是一些真实存在的情况：
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+语言在同一条街道上切换，
 
-## Inline HTML elements
+护照在某一刻突然失效，
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+熟悉的风俗在一个边界内被标记为“非法”，
 
-* **To bold text**, use `<strong>`.
-* *To italicize text*, use `<em>`.
-* Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-* Citations, like <cite>&mdash; Thomas A. Anderson</cite>, should use `<cite>`.
-* <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-* Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+一个词在这个国家和另一个国家意味完全不同。
 
-Most of these elements are styled by browsers with few modifications on our part.
+在这些地方，主流的叙述常常失效。我们写下的句子，也会显得断裂、犹豫、不那么圆满。我们想保留这些不圆满的部分。
 
-# Heading 1
+但一开始，我们并不知道这个“边境”指向哪里。
 
-## Heading 2
+它不是一个确定的地理范围，不是一张地图上能圈出来的区域。
 
-### Heading 3
+“边境”最初是一个本能的提议。
 
-#### Heading 4
+对一些人来说，它来自身体的经验——生活在中国，如何感知国境这条线，以及穿越它、靠近它、被它拒斥的那种感受。对另一些人来说，它是不断的移动、穿梭、观察与沉浸，是在语言、身份、法律、气候、暴力之间遭遇现实的方式。
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+Noeng：中心—边疆是个辩证概念。中文世界对边境的想象常常是以中国为中心的。但或许我们可以以“东南亚的边境宇宙”为中心。不是为了去中心，而是出发点不同，自然就写出了别的东西。
 
---page-break--
+格布：需要超越民族国家边界来理解各种意义上的边境。制造国界和民族国家建构可以让一切更固定更利于管理，但其结果通常很多样，甚至可能适得其反。所以边境现在通常被视为一种过程，是动态的，而非不变的实体。
 
-## Code
+脆生生：这样理解的边境是不是更像一种边境状态？提出边境写作的目的就是一种拒绝将国家视为固定疆域或统一话语的容器。所以边境写作肯定不是在说“围绕在我生活的国境线上的地域”。对我来说，“边境”不只是对外部的书写，也是关于我们自身的位置感。
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+禽：也是把“边境”作为一种视角、一种目光。
 
-```js
-// Example can be run directly in your JavaScript console
+hali：一条国境线把人隔开，但人却是流动的。我希望承载流动人群的土地边缘处发生的事情能被述说，也能被看见。
 
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
+我们并不急于给“边境写作”下一个统一的定义。我们更关心的是书写本身是如何展开的。
 
-// Call the function
-adder(2, 6);
-// > 8
-```
+这个栏目里会出现的写作形式也将是开放的：非虚构、口述、对谈、田野札记、沿途的片段。我们不追求统一风格，也不承诺某种完整的知识结构。允许它们在这一片书写场域中震荡。
 
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
+我们将从缅甸开始。
 
-## Lists
+不因为我们最了解缅甸，也不因为我们承担了某种替缅甸发声的任务。缅甸在不断逼近我们。起初它是偶然的相遇、一条新闻里的句子、一次边境的凝视。后来我们中的一些写作者，都在不同时刻被来自缅甸的疑问、疼痛或者纯粹好奇击中。它们逐渐不再只是生命中的一些闪烁，而变成了持续萦绕、需要应答的东西。
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+“缅甸”本身就是一个多孔的概念。它的国境线模糊不定，国家话语与地方实际时常冲突。它不是一个统一的整体，而是不断争夺中的空间和身份集合。缅甸常被贴上“落后”、“危险”、“神秘”的标签。我们不想重复这些叙述。我们接近它，也是在思考我们如何命名“国家”。
 
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
+我们之中，有人曾用长时间的田野驻留，沉浸在缅甸的某片土地、某种语言与日常的节奏里；也有人反复在边境或其他国度一次次遇见来自缅甸的各种流动人群。于是这不再是一个遥远的国家，而是一个现实中不断浮现的交界状态：它带着难以辨认的立场、伤痕、勇气和混乱，以碎片的方式进入我们的生活。这种接触，是写作真正发生的地方。
 
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
+我们不急于形成理论，也不期待完备的概括。我们更愿意用细节去靠近，去误读、对话、被影响，写下未完成的句子。
 
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
+这也是一次邀请。
 
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image") ![placeholder](https://placehold.it/400x200 "Medium example image") ![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+如果你也在类似的边境状态中行走、感知、挣扎、写作，我们欢迎你一同续写未完成的句子。
