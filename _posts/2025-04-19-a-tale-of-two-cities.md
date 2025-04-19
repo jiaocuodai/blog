@@ -4,9 +4,9 @@ layout: post
 title: 双城记｜他们说自己不想家
 subtitle: "以流亡者的记忆描绘一座城市。"
 image: >-
-  https://cdn.jsdelivr.net/gh/jiaocuodai/blog@master/assets/img/uploads/03/03cover2.png
+  https://cdn.jsdelivr.net/gh/jiaocuodai/blog@master/assets/img/uploads/03/03newcover.JPG
 optimized_image: >-
-  https://cdn.jsdelivr.net/gh/jiaocuodai/blog@master/assets/img/uploads/03/03cover2.png
+  https://cdn.jsdelivr.net/gh/jiaocuodai/blog@master/assets/img/uploads/03/03newcover.JPG
 category: blog
 tags:
   - blog
