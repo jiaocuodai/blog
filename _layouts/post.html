@@ -26,15 +26,9 @@
         <h1 class="post-title">{{ page.title }}</h1>
         <p class="post-subtitle">{{ page.subtitle }}</p>
 
-        {% if page.image and paginator.activated == nil %}
-        <figure>
-          <img src="{{ page.image }}" alt="Featured image" class="post-cover" />
-          <figcaption style="text-align: right">
-            图片来源：Shwe Wutt Hmon - Permission to Stay
-          </figcaption>
-        </figure>
-        {% endif %} {% include pagination-post.html progressBar=true %} {%
-        include toc.html %} {{ content }} {% include pagination-post.html %}
+        {% if page.image and paginator.activated == nil %} {% endif %} {%
+        include pagination-post.html progressBar=true %} {% include toc.html %}
+        {{ content }} {% include pagination-post.html %}
       </article>
 
       {% if site.two_columns_layout %}
