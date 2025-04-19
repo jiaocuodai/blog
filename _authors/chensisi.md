@@ -5,5 +5,4 @@ name: chensisi
 display_name: 陈思思
 position: The One
 bio:
-instagram_username: instagram_username
 ---
