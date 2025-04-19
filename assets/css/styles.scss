@@ -1,3 +1,29 @@
 ---
 ---
+
 @import "jekflix";
+.quote-box {
+  position: relative;
+  background-color: #f7f7f7; /* 温柔的浅灰，比纸白更柔和 */
+  border-left: 4px solid #ccc; /* 经典引语条，低调存在感 */
+  border-radius: 6px;
+  padding: 1.5em 1.5em 1.5em 2.5em;
+  margin: 2em 0;
+  font-size: 0.9em;
+  line-height: 1.8;
+  color: #333; /* 暖灰文字 */
+  font-family: "PingFang SC", "Hiragino Sans GB", "Helvetica Neue", Helvetica,
+    Arial, sans-serif;
+}
+
+/* ❝ 引号符号自动加在左上角 */
+.quote-box::before {
+  content: "❝";
+  position: absolute;
+  top: 0.4em;
+  left: 0.8em;
+  font-size: 1.8em;
+  color: #bbb;
+  font-family: Georgia, serif;
+  line-height: 1;
+}
