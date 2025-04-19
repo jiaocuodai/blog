@@ -77,7 +77,9 @@ paginate: true
 
 最后一次离开湄索前夕，我向赫特买了一件他做的 T，上面用英语和缅语写着：“我想念仰光”。我从没去过仰光，却总是想念仰光。想起它时，伴随着很多酸楚、很多疼痛、很多恨。
 
-![placeholder](https://cdn.jsdelivr.net/gh/jiaocuodai/blog@master/assets/img/uploads/03/author_chin.png)
+ <figure>
+    <img src="https://cdn.jsdelivr.net/gh/jiaocuodai/blog@master/assets/img/uploads/03/chin.png" alt="Featured image" class="post-cover" />
+</figure>
 
 ### 曼德勒 ‖ 阿黄
 
@@ -143,8 +145,9 @@ paginate: true
 
 那，从今以后，“何处是我朋友的家呢？”
 
-_写于 2025 年 3 月 29 日_
-
-_4 月 16 日修订_
+<p style="text-align: right">
+写于 2025 年 3 月 29 日<br>
+4 月 16 日修订
+</p>
 
 ![placeholder](https://cdn.jsdelivr.net/gh/jiaocuodai/blog@master/assets/img/uploads/03/author_huang.png)
