@@ -1,5 +1,5 @@
 # Site Settings
-name: Jekflix
+name: 交错带
 title: 交错带
 description: somewhere between here and there.
 tags:
@@ -23,18 +23,15 @@ disqus_username: disqus_username
 # See: https://formspree.io/
 formspree_form_id: formspree_form_id
 
-
 # Social Media Settings
 # Remove the item if you don't need it
 weChat_username: 交错带
-
 
 # Posts Settings
 show_time_bar: true
 show_modal_on_exit: false
 show_modal_on_finish_post: true
 two_columns_layout: true
-
 
 # Advanced Settings
 baseurl: "/blog" # the subpath of your site, e.g. /blog
@@ -43,7 +40,6 @@ google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
-
 
 # Build settings
 markdown: kramdown
@@ -84,22 +80,23 @@ plugins:
   - jekyll-paginate-content
 
 # Exclude my node related stuff
-exclude: [
-  'docs/',
-  'vendor/',
-  'LICENSE',
-  'CHANGELOG.md',
-  'jekflix.gemspec',
-  'package.json',
-  'package-lock.json',
-  'src',
-  'node_modules',
-  'initpost.sh',
-  'Gemfile',
-  'Gemfile.lock',
-  'gulpfile.js',
-  'README.md'
-]
+exclude:
+  [
+    "docs/",
+    "vendor/",
+    "LICENSE",
+    "CHANGELOG.md",
+    "jekflix.gemspec",
+    "package.json",
+    "package-lock.json",
+    "src",
+    "node_modules",
+    "initpost.sh",
+    "Gemfile",
+    "Gemfile.lock",
+    "gulpfile.js",
+    "README.md",
+  ]
 
 # Theme
 version: v3.1.2
