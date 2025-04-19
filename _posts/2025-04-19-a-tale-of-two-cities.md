@@ -10,13 +10,13 @@ optimized_image: >-
 category: blog
 tags:
   - blog
-author:
+author: x
 paginate: true
 ---
 
-### 想到仰光，我的心里就下起了雨 ‖ 禽
+![placeholder](https://cdn.jsdelivr.net/gh/jiaocuodai/blog@master/assets/img/uploads/stamp.png)
 
-![placeholder](https://cdn.jsdelivr.net/gh/jiaocuodai/blog@master/assets/img/uploads/03/author_chin.png)
+### 想到仰光，我的心里就下起了雨 ‖ 禽
 
 在那间院子里，我问他，你想念仰光吗？他几乎不假思索地说，不想。
 
@@ -80,8 +80,6 @@ paginate: true
 ![placeholder](https://cdn.jsdelivr.net/gh/jiaocuodai/blog@master/assets/img/uploads/03/author_chin.png)
 
 ### 曼德勒 ‖ 阿黄
-
-![placeholder](https://cdn.jsdelivr.net/gh/jiaocuodai/blog@master/assets/img/uploads/03/author_huang.png)
 
 我从来没有去过曼德勒，但我对曼德勒很熟。
 
@@ -150,5 +148,3 @@ _写于 2025 年 3 月 29 日_
 _4 月 16 日修订_
 
 ![placeholder](https://cdn.jsdelivr.net/gh/jiaocuodai/blog@master/assets/img/uploads/03/author_huang.png)
-
-![placeholder](https://cdn.jsdelivr.net/gh/jiaocuodai/blog@master/assets/img/uploads/stamp.png)
