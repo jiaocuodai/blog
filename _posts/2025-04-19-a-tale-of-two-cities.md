@@ -14,7 +14,7 @@ author: x
 paginate: true
 ---
 
-![placeholder](https://cdn.jsdelivr.net/gh/jiaocuodai/blog@master/assets/img/uploads/stamp.png)
+![placeholder]({{ site.baseurl }}/assets/img/uploads/stamp.png)
 
 ### 想到仰光，我的心里就下起了雨 ‖ 禽
 
@@ -31,7 +31,7 @@ paginate: true
 直到 2023 年初，我跟着缅甸流亡者从曼谷一路来到泰缅边境城市：湄索。缅甸突然不再是一种边缘地带，用阿黄的话，我在那里获得了仰光人的目光。那个边境城市里到处都是政变后来自缅甸的流亡者，绝大部分都来自仰光。那里有叫“Rangoon”的酒吧，有叫“Mingalabar”（Mingalaba 是缅语的“你好”）的餐厅，缅甸茶馆随处可见。我带着一位曾经去过仰光的中国朋友一起逛湄索的大市场，她感叹，这个市场和仰光一模一样啊！
 
  <figure class="custom-figure">
-    <img src="https://cdn.jsdelivr.net/gh/jiaocuodai/blog@master/assets/img/uploads/03/03_01.jpeg" alt="Featured image" class="post-cover" />
+    <img src="{{ site.baseurl }}/assets/img/uploads/03/03_01.jpeg" alt="Featured image" class="post-cover" />
     <figcaption style="text-align: right">
             湄索街景  摄影：禽
     </figcaption>
