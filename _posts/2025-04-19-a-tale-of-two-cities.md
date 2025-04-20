@@ -30,7 +30,7 @@ paginate: true
 
 直到 2023 年初，我跟着缅甸流亡者从曼谷一路来到泰缅边境城市：湄索。缅甸突然不再是一种边缘地带，用阿黄的话，我在那里获得了仰光人的目光。那个边境城市里到处都是政变后来自缅甸的流亡者，绝大部分都来自仰光。那里有叫“Rangoon”的酒吧，有叫“Mingalabar”（Mingalaba 是缅语的“你好”）的餐厅，缅甸茶馆随处可见。我带着一位曾经去过仰光的中国朋友一起逛湄索的大市场，她感叹，这个市场和仰光一模一样啊！
 
- <figure>
+ <figure class="custom-figure">
     <img src="https://cdn.jsdelivr.net/gh/jiaocuodai/blog@master/assets/img/uploads/03/03_01.jpeg" alt="Featured image" class="post-cover" />
     <figcaption style="text-align: right">
             湄索街景  摄影：禽
@@ -41,7 +41,7 @@ paginate: true
 
 仰光青年总是遍布纹身、穿孔。仰光的街道上到处是茶馆，人们总是在茶馆里打发掉那些怎么都用不完的时间。仰光的市场里摆摊的几乎全是穆斯林，从南亚裔到缅族。仰光的朋克总是去贫民窟给失地的农民送饭，衣衫褴褛的乡下人对着这些奇形怪状的朋克们也都神色自若。2007 年，昂图在仰光中心的大金寺旁第一次看到有人死在政府的枪下。2017 年，赫特在他和苏怡的婚礼那一天被警察追捕，他们只好从婚礼中逃蹿出来，新郎的长发在风中飘扬，新娘一直跑一直跑，直到爬上了潘梭丹美术馆的屋顶。2021 年，梅帕在军政府的通缉中，躲去了仰光西南郊区的一个外国女人家，那里太安静了，以至于她开始惧怕任何声音。
 
- <figure>
+ <figure class="custom-figure">
     <img src="https://cdn.jsdelivr.net/gh/jiaocuodai/blog@master/assets/img/uploads/03/03_07.jpeg" alt="Featured image" class="post-cover" />
     <figcaption style="text-align: right">
             湄索穆斯林  摄影：禽
@@ -66,7 +66,7 @@ paginate: true
 
 绝望变成了对地震受难同胞一句痛彻心扉的祝福，**“祝你来世别再做缅甸人。”**
 
- <figure>
+ <figure class="custom-figure">
     <img src="https://cdn.jsdelivr.net/gh/jiaocuodai/blog@master/assets/img/uploads/03/03_04.jpeg" alt="Featured image" class="post-cover" />
     <figcaption style="text-align: right">
             日常祷告  摄影：禽
@@ -103,7 +103,7 @@ paginate: true
 
 所以曼德勒的菜和傣菜很像。苏苏带我去吃曼德勒菜，我惊呼怎么这么像傣味。她得意地笑。在曼谷的曼德勒餐馆吃曼德勒菜，小锅米线，凉鸡，撒撇，手抓饭，食物丰富无比，越吃越像回了云南。只有背景音乐是缅语的，墙上雕着曼德勒的古代皇宫。
 
- <figure>
+ <figure class="custom-figure">
     <img src="https://cdn.jsdelivr.net/gh/jiaocuodai/blog@master/assets/img/uploads/03/03_05.jpeg" alt="Featured image" class="post-cover" />
     <figcaption style="text-align: right">
             “曼德勒”餐馆的食物 摄影：阿黄
@@ -118,7 +118,7 @@ paginate: true
 
 “那就像小时候的我。”苏苏微笑。
 
-<figure>
+<figure class="custom-figure">
     <img src="https://cdn.jsdelivr.net/gh/jiaocuodai/blog@master/assets/img/uploads/03/03_06.jpeg" alt="Featured image" class="post-cover" />
     <figcaption style="text-align: right">
             金边街景  摄影：阿黄
