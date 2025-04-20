@@ -77,7 +77,7 @@ paginate: true
 
 最后一次离开湄索前夕，我向赫特买了一件他做的 T，上面用英语和缅语写着：“我想念仰光”。我从没去过仰光，却总是想念仰光。想起它时，伴随着很多酸楚、很多疼痛、很多恨。
 
- <figure>
+ <figure class="custom-figure">
     <img src="https://cdn.jsdelivr.net/gh/jiaocuodai/blog@master/assets/img/uploads/03/chin.png" alt="Featured image" class="post-cover" />
 </figure>
 
