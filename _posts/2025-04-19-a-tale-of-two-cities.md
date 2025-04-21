@@ -33,7 +33,7 @@ paginate: true
  <figure class="custom-figure">
     <img src="{{ site.baseurl }}/assets/img/uploads/03/03_01.jpeg" alt="Featured image" class="post-cover" />
     <figcaption style="text-align: right">
-            湄索街景  摄影：禽
+            湄索街景&emsp;摄影：禽
     </figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ paginate: true
  <figure class="custom-figure">
     <img src="https://cdn.jsdelivr.net/gh/jiaocuodai/blog@master/assets/img/uploads/03/03_07.jpeg" alt="Featured image" class="post-cover" />
     <figcaption style="text-align: right">
-            湄索穆斯林  摄影：禽
+            湄索穆斯林&emsp;摄影：禽
     </figcaption>
 </figure>
 
@@ -69,13 +69,62 @@ paginate: true
  <figure class="custom-figure">
     <img src="https://cdn.jsdelivr.net/gh/jiaocuodai/blog@master/assets/img/uploads/03/03_04.jpeg" alt="Featured image" class="post-cover" />
     <figcaption style="text-align: right">
-            日常祷告  摄影：禽
+            日常祷告&emsp;摄影：禽
     </figcaption>
 </figure>
 
 在湄索时，我总跟朋友们说，一想到仰光，我就会有想尿尿的感觉。朋友们笑我说，其他人的情绪器官是胃，而我的情绪器官是膀胱。想尿尿的感觉。这样表述太不诗意了，于是我写，“一想到仰光，我的心里就下起了雨”。
 
 最后一次离开湄索前夕，我向赫特买了一件他做的 T，上面用英语和缅语写着：“我想念仰光”。我从没去过仰光，却总是想念仰光。想起它时，伴随着很多酸楚、很多疼痛、很多恨。
+
+### Whenever I think of Yangon, it rains in my heart | Chin
+
+In that courtyard, I asked him, “Do you miss Yangon?”
+
+He barely hesitated before saying, “No, I don’t.”
+
+And yet, somehow, he began recalling his daily routines in the city. He used to visit a library often. He described, in fine detail, how he would take the bus from his home, the name of the street where the library stood, and the shops that lined it. He described a staircase just inside the library—how he always took it down to the basement, always sat in the same corner. He even remembered the feel of the air there, the temperature of that exact spot.
+
+It was as if we were walking beside him, tracing the light and dust in Yangon’s air, until we stepped off the sun-scorched streets into the cool, dim basement—a chill that made me shiver.
+
+He doesn’t miss Yangon.
+
+-
+
+I’ve never been to Myanmar. For many years, it existed in my mind only as a kind of periphery—somewhere at China’s edge. I had met Burmese migrant workers and Burmese Muslim traders in the jade market in Yunnan. The fieldwork stories of friends studying Myanmar mostly focused on the border zones: Kokang, Wa State, the Kachin and Lisu people moving fluidly across national lines. This is how the contours of Burma took shape for me— refracted through a kind of “parallax,” similar to how Chinese netizens often imagine Burma only in terms of scam zones, always from a Sinocentric gaze.
+
+That changed in early 2023, when I followed Burmese exiles from Bangkok to Mae Sot, a city on the Thai-Myanmar border. Myanmar suddenly ceased to be a peripheral place. I had finally acquired the gaze of someone from Yangon. That town was filled with people displaced by the 2021 coup—most of them from Yangon. There was a bar called “Rangoon,” a restaurant called “Mingalabar” (the Burmese word for “hello”), and tea shops on every corner. When I took a Chinese friend—someone who had once visited Yangon—to the Mae Sot market, she gasped, “This place is exactly like Yangon!”
+
+In a piece I wrote that winter about Burmese exiles on the border, I wrote:
+
+> _“On the border, almost everyone feels the perpetual presence of Myanmar's state violence through its absence. While I have never been to Myanmar, being in Mae Sot, I found myself increasingly immersed in Myanmar's cityscapes, its rugged hills and flowing streams..”_
+
+Among those cities, the one I’ve come to know best is Yangon. Over the next two years, as I traveled back and forth to Mae Sot, Yangon took on an increasingly vivid and tangible form for me—shaped through the memories of exile after exile who had fled from that city.
+
+Yangon’s youth are often tattooed and pierced.The city’s streets are filled with tea shops, where time stretches endlessly. In the markets, most of the vendors are Muslim—from South Asian backgrounds to ethnic Burmans. Yangon’s punks used to deliver food to displaced farmers in the slums. The villagers, ragged and dispossessed, looked at these strange, spiky-haired kids without batting an eye. In 2007, Aung Thu saw someone die in front of him for the first time—shot by the military—just beside Shwedagon Pagoda in the heart of Yangon. In 2017, during their wedding, Htet and Su Yi had to flee as police came to arrest them. The groom’s hair fluttered in the wind and the bride had to run all the way up to the rooftop of the Pansodan Art Gallery. In 2021, under a warrant from the junta, May Phat took refuge in the home of a foreign woman on Yangon’s southwestern edge. It was so quiet there, she began to fear every sound.
+
+Most of the exiles in Mae Sot joined the underground resistance after the coup. They made a pact: if any of them were caught, they would give up everyone’s names—no one should endure the torture alone. But first, they had to hold out for 24 hours—to give the rest time to escape.
+
+Many are now trapped at the border because they are on the junta’s blacklist and couldn’t leave the country officially with their passport stamped. Those with documents left long ago—to Chiang Mai, Bangkok, or on to the West through UN resettlement programs. Those who stayed behind speak bitterly of the ones who left. They are seen as traitors, cowards who fled from the heavy history they were meant to carry together.
+
+At the end of 2024, I stayed in Mae Sot to ring in the new year. In a place defined by unresolved temporariness, I shared that strange ritual of time—of countdowns and calendar changes—with friends who had been trapped here for years, waiting—just waiting—for the revolution to win..The fireworks exploded. In that place, public time felt cruel, with nowhere to hide from it. Even crueler was the sound of the fireworks. In a town where people hear drones buzzing from across the border, among those who have fled airstrikes, firecrackers sound terrifying.
+
+-
+
+Then, the earthquake. The 7.7-magnitude earthquake hit central Myanmar—between Mandalay, a junta stronghold, and Sagaing, a region controlled by resistance but fiercely contested by junta. Airstrikes never stop there. After the military’s conscription law took effect in March 2024, young people fled Mandalay en masse. Few able-bodied people remained to dig through the rubble. In Sagaing, the army cut off roads and communications, blocking aid and rescue teams. And when people fled their homes to seek safety outside—many were targeted by airstrikes in the open streets.
+
+The Burmese exiles in the bordertown were devastated. It wasn’t just the pain of watching their people suffer—though surely, after all these years, hadn’t they suffered enough? But because they realized the true punishment of exile: they should have been there, helping, documenting, saving. But instead, all they could do was watch, helplessly.
+
+Grief gave way to a bitter, almost unspeakable curse—a blessing for the dead: **“May you be reborn in your next life as someone who is not Burmese.”**
+
+-
+
+In Mae Sot, I used to joke with my friends: every time I think of Yangon, I feel the urge to pee. They laughed and said, “Other people carry emotions in their stomachs. Yours is in your bladder.” The urge to pee. Not a very poetic way to put it.
+
+So I wrote instead: “Whenever I think of Yangon, it rains in my heart.” The last time I left Mae Sot, I bought a T-shirt from Htet. He had printed it in English and Burmese:<br>
+_“I Miss Yangon.”_
+
+I’ve never been to Yangon. And yet I’m always missing it. Every time I think of that city, it comes with sorrow, pain, and a fury that never quite goes away.<br>
 
  <figure class="custom-figure">
     <img src="https://cdn.jsdelivr.net/gh/jiaocuodai/blog@master/assets/img/uploads/03/chin.png" alt="Featured image" class="post-cover" />
@@ -106,7 +155,7 @@ paginate: true
  <figure class="custom-figure">
     <img src="https://cdn.jsdelivr.net/gh/jiaocuodai/blog@master/assets/img/uploads/03/03_05.jpeg" alt="Featured image" class="post-cover" />
     <figcaption style="text-align: right">
-            “曼德勒”餐馆的食物 摄影：阿黄
+            “曼德勒”餐馆的食物&emsp;摄影：阿黄
     </figcaption>
 </figure>
 
@@ -121,7 +170,7 @@ paginate: true
 <figure class="custom-figure">
     <img src="https://cdn.jsdelivr.net/gh/jiaocuodai/blog@master/assets/img/uploads/03/03_06.jpeg" alt="Featured image" class="post-cover" />
     <figcaption style="text-align: right">
-            金边街景  摄影：阿黄
+            金边街景&emsp;摄影：阿黄
     </figcaption>
 </figure>
 
@@ -149,5 +198,67 @@ paginate: true
 写于 2025 年 3 月 29 日<br>
 4 月 16 日修订
 </p>
+
+### Mandalay | Huang
+
+_– She said we finally got to know her hometown, though not in a good way._
+
+I have never been to Mandalay, but I am familiar with it.
+
+Not in the sense that I could walk in the city with my eyes closed, but when I hear the name, something inside me instinctively clicks—Tick—as if my nervous system recognizes a place that often surfaces in my thoughts.
+
+Let me think, how did it become so familiar to me.
+
+"Mandalay."
+
+The person who answered my question “Which city are you from” was Suu, my best friend in Bangkok. When she first told me about this place, I had no idea where it was. But Suu knew. Suu is the one who can find the way there with her eyes closed, even though she is a world explorer-- Many from Myanmar’s “golden generation” of democratic reform have seen the world. Before the coup, they were Myanmar's golden generation, hopefuls—internationally educated, fluent in English, full of aspirations. They returned to Myanmar determined to rebuild it. After the coup, global travel turned into global diaspora.
+
+We once travelled to Cambodia during the scorching dry season. Suu told me that her Cambodian friends were all “hometown loyalists.” No matter if they studied in the U.S., Korea, or Europe, they’d always end up back in Cambodia. I was confused, surrounded by Phnom Penh’s dust-choked air, the endless tangle of currencies, and Cambodian friends warning, “Don’t go out after 9 PM.” What was there to be nostalgic about? But Suu said that was a good thing—for a country.
+
+I understood what she meant. Those who return home aren't just seeing the present; they’re holding out hope for the future. But Suu no longer wants to return to Mandalay. When the topic came to homesickness when we hung out with mutual friends, a friend asked if Suu missed home. She said, “Sometimes.” But if she went back, it would only be for a few days—then left.
+
+Suu left Mandalay like a refugee.
+
+The city is under military control. Checkpoints are everywhere. Soldiers and police watch anyone trying to leave the country with suspicion, afraid the dissidents they fail to catch will become ticking time bombs abroad. Every checkpoint made her heart leap into her throat, afraid they'd find something “should not be” in her phone. She deleted her social apps—nearly lost access to her own accounts—but she finally made it out. After the conscription law was passed, very few young people of draft age could legally leave Myanmar.
+
+Mandalay—tucked deep into the folds of Myanmar’s central highlands. Yangon and the newly built capital, Naypyidaw, have likely stolen all the spotlight, so much so that many don’t realize Mandalay lies in the geographic heart of the country. It’s Myanmar’s second-largest city and was once the capital of several ancient dynasties—a beating heart of the nation. Like a button, it connects the military-controlled lowlands to the highland states where ethnic armed groups hold sway. To its east lies Shan State, forming up with Laos, Northern Thailand, and Southwest China to the world’s largest Tai-Kadai cultural zone.
+
+That’s why Mandalay’s cuisine resembles Tai(Shan) food. Suu once took me to a Mandalay restaurant, and I exclaimed at how much it reminded me of Yunnanese flavours. She smiled with pride. We were eating Mandalay food in Bangkok—hotpot-soup with rice noodles, chilled chicken, sa pyeh, hand Pilaf—rich and vibrant, tasting like home. Only the music reminded me of Burmese, and the walls were carved with images of Mandalay’s ancient palace.
+
+To be honest, I seem to be allergic to history after I became an adult. I can't remember the layers of imperial and religious history of Rome, I can't remember the dynasty history of Buddhist art in Angkor Wat, and of course I can't remember the long history of Mandalay. It is said that Mandalay is the Mandala Mountain in Puranas, it is said that the royal palaces in Mandalay took two years to build, it is said that the princess of Mandalay married the prince of Thailand, and it is said that Mandalay symbolizes the last pride of Myanmar before colonization. These things flashed through my mind and then disappeared on their own. What stays is a clean and bright coffee shop with a brown glass door and light-coloured Nordic-style tables. Sunlight was pouring in, trees lush and green outside, and Suu was smiling radiantly across the table—a smile I had never seen from her before.
+
+She must have been in a peaceful, happy Mandalay.
+
+I can imagine what this Mandalay looks like. When we went to Phnom Penh, Suu’s gaze never wavered from the view outside the window, saying that it looked just like her home.
+
+So I pretended I was in Mandalay—low-rise buildings, crowded downtown traffic, suburban rows of small shops selling snacks, farming supplies, and motor repairs. On every corner, walled villas with flowers blooming over the fence. Plumeria trees in full bloom. If this were Mandalay, perhaps it would be golden Burmese roses instead. Buddhist temples nestled in greenery, monks pausing at shopfronts while merchants bow in prayer. Two children on the grass near the town square playing with a coiled rubber hose, stepping on it to make water spray wildly. They shriek and flee, soaked, only to laugh and do it all over again.
+
+"That’s me when I was young." Suu smiled.
+
+Suu said that she was never a calm child when she was young. She often cried for no reason in the middle of the night and could not be comforted. So her parents would take her out for a ride, circling the city again and again, and she would slowly fall asleep again in the night breeze.
+
+Can someone fall in love with a place they’ve never been to? People say what you love is just your illusion. You’ll be disappointed when you actually go.
+
+But I don’t think I’ll ever get the chance to be disillusioned with Mandalay. Another Burmese friend once said how they wished they could invite us to visit Myanmar—the country had so many beautiful, untouched landscapes, well-preserved historical sites. But Suu didn't invite me to Mandalay. Suu said she didn't even want to go back to Mandalay.
+
+Mandalay—where electricity only runs three hours a day, in the early morning. Mandalay—where rare earth and natural gas are sold to other countries to fund weapons that bomb its own people, while locals can’t afford solar panels. Mandalay—where there’s no news for weeks due to internet censorship, where there’s always news: someone’s been killed; your childhood friend was shot; your families fell gravely ill but no way to get proper treatment; your cousin was arrested; your friends escaped overseas and lost contacts.
+
+Mandalay—hit by a magnitude 7.7 earthquake, 10 km deep. No sound.
+
+Disconnected. Disappeared. Without water. Without power.
+
+The only thing sound came from military planes. Less than 24 hours after the earthquake, the military resumed bombing in northern Shan State. They seem to have no plans to even repair the highway to Mandalay, nor do they appear to restore the civilian airport to allow international rescue teams access.
+
+I told you—whenever I hear the name Mandalay, my heart skips a beat. But I have heard Mandalay so many times in the past two days, and every time, it takes on a different shape: a shattered city, collapsed temples, fallen palaces, hands reaching from the rubble, destroyed homes.
+
+The young are either conscripted or have fled, leaving only the elderly and children. On the map, the earthquake warning zone fans out with deep red—the spot with almost the colour of blood—is Mandalay.
+
+The heart that almost stopped beating.
+
+It’s almost April. Thingyan approaches. It should be the season for Burmese rosewoods to bloom. But that day, I walked to the library, looking for the familiar trees out front. None had flowers. Their branches were chopped, stubs wide as a bowl, like angry, questioning eyes.
+
+For the first time, I opened a map of Mandalay, trying to find the city I thought I knew, though I had never been. Only then did I realize how much was missing from its street view—just like in the day when we stood on the Thai-Myanmar border we witnessed the satellite image on Myanmar’s side as entirely black. There’s no way for me to find the hot pot restaurant, cafe, square, lawn, lake and mountains that Suu told me about - she said many young Burmese people have a dream to open a café in the mountain. She said sometimes, she really just wanted to go back to Shan State, get married, and live a peaceful life. No way I could find her favourite restaurants on a map. There is also a restaurant named “Mandalay” in Bangkok. When she is happy, she goes there; when she is sad, she goes there. There’s no way I could find the night wind that once carried my friend to sleep. I will never find the Mandalay my friend once described.
+
+From now on, _"Where Is the Friend's Home?"_
 
 ![placeholder](https://cdn.jsdelivr.net/gh/jiaocuodai/blog@master/assets/img/uploads/03/author_huang.png)
