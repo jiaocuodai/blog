@@ -4,7 +4,10 @@
   );
   for (var i = 0; i < headings.length; i++) {
     var img = document.createElement("img");
-    img.setAttribute("src", "/assets/img/link-symbol.svg");
+    img.setAttribute(
+      "src",
+      "https://cdn.jsdelivr.net/gh/jiaocuodai/blog@master/assets/img/link-symbol.svg"
+    );
 
     var a = document.createElement("a");
     a.setAttribute("href", "#" + headings[i].getAttribute("id"));

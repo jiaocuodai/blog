@@ -68,8 +68,8 @@
   iframe {
     @include center(rem(800px));
     @include mainFont(400);
-    font-size: rem(17px);
-    line-height: rem(30px);
+    font-size: rem(15px);
+    line-height: rem(28px);
     letter-spacing: 0.025rem;
     padding: 0 rem(20px);
     margin: rem(20px) auto 0;
@@ -246,7 +246,7 @@
     }
 
     p {
-      font-size: rem(17px);
+      font-size: rem(15px);
       color: rgba(0, 0, 0, 0.6);
       margin: 0;
       @include media(">=sm") {
