@@ -112,9 +112,13 @@ paginate: true
 
 ### “We are the Palestinians of Burma”: Interview with the Progressive Muslim Youth Association
 
+<p style="text-align: right">
+Interview / Wang Sijie
+</p>
+
 <div class="quote-box">
 <p>
-It has been over four years since the military coup in Burma on February 1, 2021. Were it not for the devastating earthquake that recently struck, Burma would have been all but forgotten by the international community. Yet, throughout these four years, resistance has never ceased. The non-violent “Civil Disobedience Movement” was brutally suppressed by the military shortly after the coup—protesters were arrested, tortured, and killed. Subsequently, some responded to the call of the National Unity Government (NUG) in exile by fleeing into the jungles to form the People’s Defense Force (PDF), joining forces with ethnic armed organizations (EAOs) in guerrilla warfare. Others fled to other countries, Thailand being the first stop for many of them.</p>
+It has been over four years since the military coup in Burma<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> on February 1, 2021. Were it not for the devastating earthquake that recently struck, Burma would have been all but forgotten by the international community. Yet, throughout these four years, resistance has never ceased. The non-violent “Civil Disobedience Movement” was brutally suppressed by the military shortly after the coup—protesters were arrested, tortured, and killed. Subsequently, some responded to the call of the National Unity Government (NUG) in exile by fleeing into the jungles to form the People’s Defense Force (PDF), joining forces with ethnic armed organizations (EAOs) in guerrilla warfare. Others fled to other countries, Thailand being the first stop for many of them.</p>
 <p>Over the past few decades, Muslims from Burma have migrated to the Thai border town of Mae Sot, contributing to the formation of a transnational Muslim trading network—one that also includes Thai and Pakistani Muslims. Later, several waves of anti-Muslim riots and systematic persecution within Burma have driven many other Muslim migrants across the border.</p>
 <p>Mae Sot [official population 50,000, but with an estimated 100,000 migrants from Burma] thus hosts a large Muslim population [estimated 5 to 10 percent of the total] whose lingua franca is Burmese. Muslim-owned shops are everywhere, and it’s not strange to see people on the streets wearing keffiyehs there, despite the town’s distance from major cities. Many in this long-established Muslim community are passionate about the Palestine cause but remain largely indifferent to Burma’s revolution, seeing it as a conflict between the military regime and the Bamar majority—irrelevant to their lives. Since the 2021 coup, Mae Sot has also become a haven for those involved in the resistance movement who have been blacklisted by the military and can no longer leave the country legally. Among them are Muslim revolutionaries, some of whom occasionally manage to find work at Muslim-run trading companies in the area.</p>
 <p>After the outbreak of the Gaza war in October 2023, I witnessed how the distant issue of Palestine mirrored the complex ethnic ecology of Burma. The exiled communities quickly descended into anxiety and division. Muslim revolutionaries reported that they were seeing Islamophobic sentiments resurface among exiled Bamar revolutionaries within their own circles. After the 2021 coup, many Bamar dissidents had expressed remorse toward the Rohingya, regretting their previous silence during the oppression of the most persecuted Muslim group in Burma. But now, to the dismay of Muslim revolutionaries, some Bamar comrades had started echoing Israeli narratives, accusing Muslims of being terrorists. Disillusionment spread among many Muslim revolutionaries: they began to believe that the expressions of regret by Bamar dissidents after the coup were merely performances for the international stage. The revolution, they said, remained Bamar-centric. Another layer of mistrust took root: perhaps Burma’s ethno-nationalist politics had only been temporarily patched over by the coup and the revolution. Would Islamophobia and Bamar chauvinism resurface in a post-revolutionary Burma?</p>
@@ -193,10 +197,44 @@ This kind of federalism could actually give rise to stronger forms of ethno-nati
 
 Within the context of the Spring Revolution, Muslims are an oppressed group. We can’t assume the revolution will bring us meaningful change, so we must be more radical than others. And Muslim women—who are even more oppressed among Muslims—tend to be even more radical.
 
-We’re now promoting a new political concept: “non-territorial autonomy.” This concept is crucial to us. Compared to many other minority ethnic groups, we don’t have a territorial base from which to exercise autonomy. The strategy of the Rohingya has been to assert that they are the indigenous people of Rakhine State.3 But most Muslims in Burma are scattered throughout the country. So how do we imagine collective political rights in a post-revolution society? We must go beyond the limitations of territorial boundaries.
+We’re now promoting a new political concept: “non-territorial autonomy.” This concept is crucial to us. Compared to many other minority ethnic groups, we don’t have a territorial base from which to exercise autonomy. The strategy of the Rohingya has been to assert that they are the indigenous people of Rakhine State.<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup> But most Muslims in Burma are scattered throughout the country. So how do we imagine collective political rights in a post-revolution society? We must go beyond the limitations of territorial boundaries.
 
 This idea of non-territorial autonomy is still very new, and it hasn’t become widespread yet. But we believe it has broader applications. For instance, the Chinese community in Burma is also dispersed and has long been denied recognition as a distinct ethnic group. Or take the case of Karen, Mon, or Shan people who were born and raised in Yangon rather than in their traditional homelands. Their ethnic identity is detached from where they live. They, too, need an alternative political framework—one that doesn’t force them into becoming “Bamar.”
 
 Under this framework of non-territorial autonomy, we’re not trying to set up our own governmental institutions. Muslims living in different regions would still fall under their local administrative jurisdictions. But what we demand is collective rights, including proportional political representation within those local governments. We also want our own welfare system across the country—education, healthcare, and so on. In mainstream society, the needs of Muslims in these areas are constantly overlooked. And considering that Muslims have lived under long-term structural inequality, having even been stripped of basic citizenship rights, we must demand equity, not just equality. That means we, as a marginalized and historically dispossessed minority, should be given specific consideration in how resources and opportunities are distributed.
 
 I was born and raised in Yangon among Bamars. My face told me that my ancestors migrated from South Asia. But I do care about my life on this land, the land I was born in, the land my parents and grandparents were born in. I drink Indian tea after the Burmese mohinga [the “national dish” consisting of fish soup with rice noodles] in the mornings. This is how I grew up. I am a partisan against the junta, so this revolution is my revolution, too.
+
+#### Note
+
+<div class="footnotes">
+  <ol>
+    <li id="fn1">
+      “Khun Heinn” (a pseudonym) prefers to use the English term “Burma” instead of “Myanmar” because of the latter’s association with the ruling military regime since its official adoption in 1989, so we have followed suit. Other Burmese leftists prefer “Myanmar” despite this association because “Burma” (also preferred by the liberal National League for Democracy) is linked more closely to the Bamar majority (also known as “Burmans,” comprising about 69% of the population), as well as to British colonialism. Both terms are identical in Burmese, the different English spellings representing literary vs. colloquial pronunciations, and both derive from the Bamar term for their own ethnic group.
+      <a href="#fnref1">↩︎</a>
+    </li>
+
+    <li id="fn2">
+      Before the Rohingya genocide, mainstream Burmese society had never heard the term “Rohingya.” They referred to them as “Bengalis,” implying they were illegal immigrants from Bangladesh. The term “Rohingya,” meaning “people of Rakhine,” is a political self-claim to identity and recognition since a long time ago.
+      <a href="#fnref2">↩︎</a>
+    </li>
+
+  </ol>
+</div>
+
+<style>
+.footnotes ol li {
+  margin-bottom: 1em;
+  line-height: 1.6;
+
+}
+
+.footnotes ol{
+  font-size: 0.85em; /* 更小一点 */
+  color: #333;       /* 深灰色，避免太浅 */
+  font-family: Georgia, serif;
+  border-top: 1px dotted #ccc;
+  padding-top: 1em;
+  margin-top: 2em;
+}
+</style>
