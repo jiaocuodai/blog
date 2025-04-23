@@ -14,7 +14,7 @@ A theme for Jekyll inspired by Netflix panel for who loves movies and series and
 
 - [Live Search](docs/features.md#live-search)
 - [Estimated Reading Time](docs/features.md#estimated-reading-time)
-- [Reading Progress Bar](docs/features.md#reading-progress-bar) *(optional)*
+- [Reading Progress Bar](docs/features.md#reading-progress-bar) _(optional)_
 - ["New Post" tag](docs/features.md#new-post-tag)
 - [Load images on demand](docs/features.md#load-images-on-demand)
 - [Push Menu](docs/features.md#push-menu)
@@ -25,16 +25,16 @@ A theme for Jekyll inspired by Netflix panel for who loves movies and series and
 - [Contact page](docs/features.md#contact-page)
 - [404 error page](docs/features.md#404-error-page)
 - [Feed RSS](docs/features.md#feed-rss)
-- [Disqus](docs/features.md#disqus) *(optional)*
-- [Featured post](docs/features.md#featured-post) *(optional)*
-- [Home page pagination](docs/features.md#home-page-pagination) *(optional)*
-- [Posts sidebar](docs/features.md#posts-sidebar) *(optional)*
-- [Paginated posts](docs/features.md#paginated-posts) *(optional)*
-- ["Before you go" modal](docs/features.md#before-you-go-modal) *(optional)*
+- [Disqus](docs/features.md#disqus) _(optional)_
+- [Featured post](docs/features.md#featured-post) _(optional)_
+- [Home page pagination](docs/features.md#home-page-pagination) _(optional)_
+- [Posts sidebar](docs/features.md#posts-sidebar) _(optional)_
+- [Paginated posts](docs/features.md#paginated-posts) _(optional)_
+- ["Before you go" modal](docs/features.md#before-you-go-modal) _(optional)_
 - [Post recommendation](docs/features.md#post-recommendation)
 - [Netlify CMS ready](docs/features.md#netlify-cms-ready)
 - [Translations](docs/setup.md#translations) **new!**
-- [Math Expressions](docs/features.md#math-expressions) *(optional)* **new!**
+- [Math Expressions](docs/features.md#math-expressions) _(optional)_ **new!**
 
 ## SEO
 
@@ -78,7 +78,7 @@ Create the file `/assets/css/styles.scss` and add:
 ---
 ---
 
-$themeColor: #ff0a16;
+$themeColor: #cbc871;
 $primaryDark: #141414;
 $accentDark: #ffffff;
 $lightGray: #f2f2f2;
@@ -221,4 +221,4 @@ Do you like my work? Buy me a coffee!
 
 ## License
 
-*Jekflix Template* is available under the MIT license. See the [LICENSE](https://github.com/thiagorossener/jekflix-template/blob/master/LICENSE) file for more info.
+_Jekflix Template_ is available under the MIT license. See the [LICENSE](https://github.com/thiagorossener/jekflix-template/blob/master/LICENSE) file for more info.
