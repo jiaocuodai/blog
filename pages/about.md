@@ -15,3 +15,7 @@ alt="jiaocuodai" width="200">
 “交错带”是一个边境写作计划，由一群持续观察、移动、生活在不稳定边界上的人发起。它关注语言、身体、身份在现实缝隙中的错位与重组，也关注在不稳定生活中寻求可能的尝试。如果你也在类似的边境状态中行走、感知、挣扎、写作，我们欢迎你一同续写未完成的句子。
 
 投稿邮箱：jiaocuodai@gmail.com
+
+_ecotone_ is a border-writing initiative launched by a group of people who live, move, and observe along unstable frontiers. It traces the dislocation and reconfiguration of language, bodies, and identities within the cracks of lived realities. At the same time, it attends to tentative gestures toward possibility within lives marked by uncertainty. If you’re interested in learning more or joining us, feel free to reach out.
+
+Contact Email: jiaocuodai@gmail.com
