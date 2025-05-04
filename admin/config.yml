@@ -20,6 +20,9 @@ commit_messages:
 # Better Decap + Bridge logo (optional)
 logo_url: https://decapbridge.com/decapcms-with-bridge.svg
 
+# Add site links in DecapCMS (optional)
+site_url: https://jiaocuodai.github.io/blog
+
 collections:
   - label: "Categories"
     name: "categories"
