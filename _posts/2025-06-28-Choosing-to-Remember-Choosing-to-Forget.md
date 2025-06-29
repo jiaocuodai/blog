@@ -3,7 +3,7 @@ date: 2025-06-28 00:00:00
 layout: post
 title: 缅甸札记｜我们要如何珍视“平庸之勇”
 subtitle: 此刻你正体验一种极度私人的共鸣，恰恰因为与人群融为一体。
-description: x
+description:
 image: /blog/assets/img/uploads/640.jpeg
 category: blog
 tags:
@@ -34,7 +34,7 @@ newsletter页面</a>。
 
 ##### 消逝的信息
 
-<div style="border: 2px solid #696969; padding: 20px;  margin: 0 auto; text-align: center; font-style: italic; color: #696969;">
+<div style="border: 2px solid #d3d3d3; padding: 20px; max-width: 690px; width: calc(100% - 40px); margin: 0 auto; text-align: center; font-style: italic; color: #696969;">
 一周<br>
 
 一日<br>
@@ -137,7 +137,7 @@ newsletter页面</a>。
 当我将个人境遇推及缅甸的几百万同胞时，那是一种难以估量的集体伤痛。我们该如何消化这一切？是在尚未失去一切的旧日时光里寻找欢愉？还是在缅怀逝者时获得安宁？抑或营造一个既放松又欢愉的未来？我逐渐意识到，若不懂得在释怀和铭记之间取得平衡，便无法走出暴力循环泥沼，因而发展不出更有生机的未来。
 ##### 选择未来
 
-<div style="border: 2px solid #696969; padding: 20px;  margin: 0 auto; text-align: center; font-style: italic; color: #696969;">
+<div style="border: 2px solid #d3d3d3; padding: 20px; max-width: 690px; width: calc(100% - 40px); margin: 0 auto; text-align: center; font-style: italic; color: #696969;">
 我们孩子<br>
 
 成长的环境<br>
