@@ -45,7 +45,11 @@ _And our little son, who was born in secrecy and silence — will he remain apar
 <div class="bilingual-raw" markdown="1">
 
 2015年3月27日仰光的那场婚礼，被Htet戏称作“Flashmob Wedding”——警察闯进了他的婚礼现场抓捕他，人群四散。在那个记录婚礼的相册中，我看到了很多后来在泰缅边境上见到的人。他们都在2021年政变后流亡在那条国境线上。
-
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>那极具电影感的逃离婚礼的一幕，把我带去了那座城市的肌理之中。
 
 <figure class="custom-figure">
@@ -88,7 +92,10 @@ The final photo in the wedding album lingers on this street; I located the corre
 <div class="bilingual-raw" markdown="1">
 
 潘素丹大街，在36街和37街中间。事实上，在这条街上，以潘素丹为名的画廊有两间，一间叫Pansodan Art Gallery，另一间叫Pansodan Scene Gallery。根据婚礼现场的提示牌，更大的几率是Pansodan Scene。
-
+<br>
+<br>
+<br>
+<br>
 我在谷歌地图上找到Pansodan Scene Gallery，它位于潘素丹大街和马哈班杜拉大街的交界处，紧邻苏雷佛塔。根据GPT，苏雷佛塔是仰光市规划的“零公里点”，也就是说，所有道路的起点都是从这座佛塔出发——一个几乎将佛塔嵌入城市地理与政治权力结构的规划设计。在这周围环绕着殖民时期的建筑、政府机关、法院、商圈、独立纪念碑。在1988年的8888民主运动、2007年的番红花革命、2021年反政变抗议中，苏雷佛塔都是民众集结游行的起点和象征场所。
 
 再往南，就是仰光河。
@@ -96,8 +103,9 @@ The final photo in the wedding album lingers on this street; I located the corre
 <figure class="custom-figure">
     <img src="/blog/assets/img/uploads/09/04.png" alt="Featured image" class="post-cover" />
 </figure>
+在谷歌地图上搜索Pansodan Scene Gallery，一个本地向导Aung Sint Myat的点评帮我定位到了街景。
 
-
+这间画廊在潘素丹大街上一栋叫作Tejoomal大楼的殖民建筑内。
 
 <hr>
 
@@ -109,9 +117,8 @@ It has served as both a symbolic site and a point of departure for mass mobiliza
 
 Just beyond that, to the south, lies the Yangon River.
 
-在谷歌地图上搜索Pansodan Scene Gallery，一个本地向导Aung Sint Myat的点评帮我定位到了街景。
 
-这间画廊在潘素丹大街上一栋叫作Tejoomal大楼的殖民建筑内。
+<br>
 
 By searching for Pansodan Scene Gallery on Google Maps, a review from a local guide, Aung Sint Myat, helped me locate the street view.
 
@@ -155,14 +162,16 @@ The gallery is housed in a colonial-era building on Pansodan Road, known as the 
 <hr>
 
 I opened Mapillary and found a street-view sequence near Pansodan Scene,  captured closest to the time of that wedding—following it, I stepped into a Yangon preserved on screen.
-<figure class="custom-figure">
-    <img src="/blog/assets/img/uploads/09/14.png" alt="Featured image" class="post-cover" />
+<!-- <figure class="custom-figure">
+    <img src="/blog/assets/img/uploads/09/14.png" alt="Featured image" class="post-cover"/>
     <figcaption style="text-align: right; font-size: 0.9em;">
         a journey through riovictoire's guide in a rainy day of Yangon, June 2015
     </figcaption>
-</figure>
+</figure> -->
 
-
+<br>
+<br>
+<br>
 June 20th, 2015. A rainy, overcast day. Three months after the Wedding.
 
 On Maha Bandula Road, people moved beneath umbrellas, each bearing a posture—sluggish, flippant, urgent, hesitant, contemplative—each tracing their own temporal rhythm into the sediment of history. Later, they resurfaced through the compression of resolution, rendered not as subjects but as degraded artifacts: poor images fragmented by circulation, ghosted by loss.
@@ -184,7 +193,14 @@ _对于“春天革命”的流亡者而言，湄索只是一个中转地，一�
 <div class="bilingual-raw" markdown="1">
 
 Htet是带我来到湄索的人。2023年2月26日，我们从清迈搭8小时的大巴，翻过泰西达府的重重山脉，一路体会着“佐米亚”逃避统治的地形，最终抵达泰缅边境。这只是我离开中国、抵达柏林前走的一条弯路。而他却是被困在这个时间装置中的人。
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 我感激这条弯路，感激你。在这里，我获得了你的目光，用它们看仰光的街道，被细雨打湿了眼睛。
 
 <hr>

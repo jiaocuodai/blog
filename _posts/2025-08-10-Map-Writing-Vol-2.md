@@ -40,20 +40,30 @@ I. A World Without Clouds and the Stone with a Small Window
 Google earth制造了一个万里无云的世界，在这里面俯瞰地球会忘记有云的存在。Google公司通过各种算法，用大量消除云层之后的图像碎片拼接出一个清晰的地球。
 <br>
 <br>
-<br>从识别遮盖物，剥离遮盖物，到“呈现出下面的东西”，之间有大量的工作，它们形成一个机器和人在里面共同忙碌的空间，支撑着屏幕里“地球”的图像呈现。
 <br>
+<br>从识别遮盖物，剥离遮盖物，到“呈现出下面的东西”，之间有大量的工作，它们形成一个机器和人在里面共同忙碌的空间，支撑着屏幕里“地球”的图像呈现。
 <br>
 <br>
 <br>缅甸的翡翠也在一个围绕着“剥离遮盖物”形成的多层空间里。缅甸北部的山被剥开，机器和人不分日夜翻找翡翠原石；在一颗原石的“壳”与下面被称作“玉”的部分之间，是商人开的一个小窗，买家举着高亮度的手电对着小窗反复侦查，评估遮盖物下的价值。
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 <br>有的石头就停留在这个阶段，不愿冒险的商人会最大限度保留粗燥外壳与小窗之间的张力所拉扯出来的幻想空间，在商人间转手，外壳不再被剥离，也许这就是它市场价值最高的时刻。
 
-
+<br>
+<br>
 <br>翡翠层层剥离不是为了透明，从矿山到玉器，更像是人为了榨干每一层的经济价值而剥离，许多模糊不清的规则在背后驱动和决定其价值。
-
+<br>
+<br>
+<br>
 <br>在缅甸挖出的翡翠中，绝大部分最终走私到了中国。我一直认为“玉”不是一种具体的材料，更多是一个中国的文化概念，它的物质性从来都不清晰，然而颜色艳丽的缅甸翡翠因为中国的玉文化而获得较高的市场价值。我出生的中国云南省和缅甸相邻。从小以来的认知里，翡翠就是一种真假难辨，价值飘忽不定的东西。小时候爷爷奶奶家在地矿局，大门口有很多矿石与珠宝店铺，里面陈列着昂贵的翡翠，但同时附近不远的花鸟市场里，有很多便宜的翡翠，它们都一样的鲜绿。无论是哪种商店，卖家总会拿出一个小手电筒照着翡翠，说出一堆术语。大人之间也常常会聊到关于翡翠的故事，受骗经历，倾家荡产，被做局，认识内部人士，这些和他们多年后讨论股市或者金融产品的话题都大同小异。
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -148,7 +158,10 @@ I slipped into what appears to be a warehouse built around 2019 in the Hpakant j
 <br>
 <br>
 <br>
+<br>
 社交媒体上他标注的生活轨迹与我这次查看缅甸地图的顺序奇怪的重合了，他出生和成长在实皆Sagaing — 今年（2025年）缅甸大地震的中心，曾住在翡翠矿区帕敢Hpakrant —仓库所在地，现在生活在曼德勒Madeley — 缅甸最大的翡翠交易市场所在地。
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -158,8 +171,10 @@ I slipped into what appears to be a warehouse built around 2019 in the Hpakant j
 <br>
 <br>
 <br>
+<br>
+<br>
 看见和知道看见了什么，之间差距很大。
-<br><br>
+<br><br><br>
 在浏览了大部分他贴出来的修理案例后，才逐渐理解了这个仓库里一些东西的潜在关系：电焊机，焊条，发动机冷却器散热器，发动机过滤网。
 <br>
 <br>
@@ -199,11 +214,11 @@ The clearest information visible on the various boxes inside the warehouse is pr
 我在阿里巴巴上搜到了这款零件，明白了这个矿区用的挖掘机型号。
 <br>
 <br>
-<br>
 PC2000-8：小松（Komatsu）超大型液压挖掘机型号；
 <br>
 <br>
 Pin: Boom Foot：这是连接动臂（Boom）底部与机身旋转平台之间的枢轴销（pin）属于挖掘机主结构核心部件；
+<br>
 <br>
 <br>
 编号“21T-70-71181”为 小松 Komatsu 原厂编号。
@@ -274,6 +289,7 @@ Because of the short-term mining permits being sold and the unstable political s
 <br>
 <br>
 <br>
+<br>
 据说曼德勒有很多华人和缅甸最大的翡翠市场，出现在矿区一点都不意外。
 <hr>
 Very few people upload Street View images in the mining areas, but along the edge of the pit, someone uploaded three sets of photos. Two of the vehicles have license plates starting with MDL—the abbreviation for Mandalay.
@@ -337,7 +353,7 @@ I copied the hashtags he used in that post:
 [#Save_Myanmar](https://www.facebook.com/hashtag/save_myanmar?__eep__=6&__tn__=*NK*F)
 
 #SaveMyanmar
-<br>
+
 The only comment under the post was:
 “Fix your own stuff.”
 </div>
