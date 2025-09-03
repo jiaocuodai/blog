@@ -3,7 +3,8 @@
     gap: 2rem;
     flex-wrap: wrap;
     justify-content: space-between;
-    margin: 2rem 0;
+    margin: 0 auto;
+    max-width: 960px;
   }
   
   .post .post-content .bilingual-section .bilingual-col {

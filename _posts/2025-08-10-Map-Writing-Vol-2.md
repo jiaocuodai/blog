@@ -341,3 +341,9 @@ I copied the hashtags he used in that post:
 The only comment under the post was:
 “Fix your own stuff.”
 </div>
+
+> <p style="text-align: center; margin: 0;">《Map Writing · 牵挂的经纬》</p>
+>
+> 这是一个从缅甸地图出发的写作专栏，源自《交错带》于春季发起的两场地图写作工作坊。
+> 作品大多游走于真实与虚构之间，采用诗、散文、图片、街景轨迹影像等多种形式。参与者在虚拟街景中寻找那些因地震而刺入心头的图像与词汇，为无法抵达之地赋予感知与意义。
+> 愿我们在遥望中同行。
