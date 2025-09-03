@@ -31,6 +31,7 @@ paginate: true
     <img src="/blog/assets/img/uploads/10/01.jpeg" alt="Featured image" class="post-cover" />
 </figure>
 
+
 **I， 没有云的世界和开一个小窗的石头**
 
 I. A World Without Clouds and the Stone with a Small Window
@@ -357,6 +358,8 @@ I copied the hashtags he used in that post:
 The only comment under the post was:
 “Fix your own stuff.”
 </div>
+<p align="right"><i>作者：Jing</i></p>
+<p align="right"><i>Author: Jing</i></p>
 
 > <p style="text-align: center; margin: 0;">《Map Writing · 牵挂的经纬》</p>
 >
