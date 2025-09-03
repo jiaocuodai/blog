@@ -1,0 +1,33 @@
+.post .post-content .bilingual-section {
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 2rem 0;
+  }
+  
+  .post .post-content .bilingual-section .bilingual-col {
+    flex: 1 1 45%;
+    min-width: 300px;
+  }
+  
+  .bilingual-section .bilingual-col p {
+    margin-bottom: 1rem;
+  }
+  
+  .bilingual-section .bilingual-col img {
+    width: auto;
+    height: auto;
+    display: block;
+    margin: 8px 0;
+  }
+  
+  @media (max-width: 768px) {
+    .post .post-content .bilingual-section {
+      flex-direction: column;
+    }
+    .post .post-content .bilingual-section .bilingual-col {
+      min-width: 100%;
+    }
+  }
+  

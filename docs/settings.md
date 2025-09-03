@@ -351,7 +351,7 @@ Example with two columns:
 
 ```yaml
 # posts.yml
-two_columns_layout: true
+two_columns_layout: false
 ```
 
 ![Post with two columns screenshot](https://res.cloudinary.com/dm7h7e8xj/image/upload/v1566476793/two-columns-screenshot_phumrl.jpg)
