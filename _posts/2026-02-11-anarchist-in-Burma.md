@@ -9,7 +9,7 @@ image: >-
 category: blog
 tags:
   - blog
-author: Chin
+author: x
 paginate: true
 ---
 
@@ -262,6 +262,7 @@ paginate: true
 
 缅甸的教育体系培养了一代又一代带着民族主义偏见成长的人，而如今，政变、革命与流亡所带来的断裂，也许正是我们重新争取他们的机会。
 
+<p align="right"><i>采写：阿伊莎</i></p>
 
 #### 注释：
 
