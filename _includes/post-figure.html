@@ -1,0 +1,22 @@
+{% assign src = include.src | strip %}
+{% if src contains '://' %}
+  {% assign img_src = src %}
+{% elsif src contains site.baseurl %}
+  {% assign img_src = src %}
+{% elsif src contains '/blog/' %}
+  {% assign img_src = src %}
+{% else %}
+  {% assign img_src = site.baseurl | append: src %}
+{% endif %}
+
+{% assign alt = include.alt | default: 'Featured image' %}
+{% assign align = include.align | default: 'right' %}
+
+<figure class="custom-figure">
+  <img src="{{ img_src }}" alt="{{ alt }}" class="post-cover" />
+  {% if include.caption %}
+  <figcaption class="figure-caption figure-caption--{{ align }}">
+    {{ include.caption }}
+  </figcaption>
+  {% endif %}
+</figure>

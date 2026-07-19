@@ -1,0 +1,24 @@
+{% assign src = include.src | strip %}
+{% if src contains '://' %}
+  {% assign video_src = src %}
+{% elsif src contains site.baseurl %}
+  {% assign video_src = src %}
+{% elsif src contains '/blog/' %}
+  {% assign video_src = src %}
+{% else %}
+  {% assign video_src = site.baseurl | append: src %}
+{% endif %}
+
+{% assign align = include.align | default: 'right' %}
+
+<figure class="custom-figure">
+  <video controls width="100%">
+    <source src="{{ video_src }}" type="video/mp4">
+    你的浏览器不支持视频播放。
+  </video>
+  {% if include.caption %}
+  <figcaption class="figure-caption figure-caption--{{ align }}">
+    {{ include.caption }}
+  </figcaption>
+  {% endif %}
+</figure>

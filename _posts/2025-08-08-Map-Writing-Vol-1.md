@@ -12,7 +12,7 @@ author: Chin
 paginate: true
 ---
 
-<div class="quote-box">
+{% capture vol1_editorial %}
 <p>
 按语：对于从未踏足缅甸的人而言，“曼德勒”、“实皆”等名词第一次通过媒体进入人们的意识之中，是在3月28日，7.7级大地震发生时。一座座坍塌的佛像，轰然倒下的殖民时期的大桥，也伴随着这些陌生的地名孤立地出现在新闻报道里。但是它们在哪里，它们的周围又是怎么样的城市地景和山川河流？
 <br>
@@ -20,8 +20,8 @@ paginate: true
 <br>
 我们将部分作品选出，整理为专题连载陆续发布，以飨读者。
 </p>
-
-</div>
+{% endcapture %}
+{% include quote-box.html content=vol1_editorial %}
 
 _တႏွစ္ျပည့္ခဲ့တဲ့မဂၤလာေဆာင္ဟာ ဂုဏ္ပကာသနေတြမပါပဲၿပီးခဲ့တယ္။ တိတ္ေလးလာၿပီးေဆာင္လို႔ တိုးတိုးေလး ဝတ္စံုေပ်ာင္းလို႔ျပန္ခဲ့ရတယ္။ ေမာင့္က်က္သေရေခါင္းေပါင္းမပါဘူး... သတို႔သားဆံေကသာဟာေလမွာဝဲ.. သတို႔သမီးလည္း အေျပးအလႊား ပန္းဆိုးတန္းပန္းခ်ီျပခန္းေခါင္မိုးေပၚအထိေျပးတက္ခဲ့ရတယ္.... အဲဒီေခါင္မိုးေပၚကေန က်ေနာ္တို႔ႏွစ္ေယာက္အတူတကြေနထိုင္မႈကို အတိအလင္း ဖြင့္ဟခဲ့ၾကတယ္။ ခိုးေခ်ာင္ခိုးဝွက္ႀကီးျပင္းခဲ့ရတဲ့ သားေလးကေတာ့ ခုထိပဲ ခုထိပဲ ေဝးေနဦးမွာလား_
 
@@ -30,20 +30,15 @@ _There was no proud announcement, no celebratory parade..._<br>
 _The groom’s topknot was left to drift in the wind...And the bride — she had to run, run all the way up to the rooftop of the Pansodan Gallery._<br>
 _From that rooftop, we spoke clearly about how we would live together, just the two of us._<br>
 _And our little son, who was born in secrecy and silence — will he remain apart like this, even now, even still?”_<br>
-<p align="right"><i>—— Written by Htet on the first anniversary of his wedding, 2016.3.27</i></p>
+{% include attribution.html text="—— Written by Htet on the first anniversary of his wedding, 2016.3.27" %}
 
-<figure class="custom-figure">
-    <img src="/blog/assets/img/uploads/09/12.png" alt="Featured image" class="post-cover" />
-</figure>
+{% include post-figure.html src="/assets/img/uploads/09/12.png" %}
 
-<figure class="custom-figure">
-    <img src="/blog/assets/img/uploads/09/11.png" alt="Featured image" class="post-cover" />
-</figure>
+{% include post-figure.html src="/assets/img/uploads/09/11.png" %}
 
 
 
-<div class="bilingual-raw" markdown="1">
-
+{% capture vol1_bilingual_wedding %}
 2015年3月27日仰光的那场婚礼，被Htet戏称作“Flashmob Wedding”——警察闯进了他的婚礼现场抓捕他，人群四散。在那个记录婚礼的相册中，我看到了很多后来在泰缅边境上见到的人。他们都在2021年政变后流亡在那条国境线上。
 <br>
 <br>
@@ -52,9 +47,7 @@ _And our little son, who was born in secrecy and silence — will he remain apar
 <br>
 <br>那极具电影感的逃离婚礼的一幕，把我带去了那座城市的肌理之中。
 
-<figure class="custom-figure">
-    <img src="/blog/assets/img/uploads/09/01.png" alt="Featured image" class="post-cover" />
-</figure>
+{% include post-figure.html src="/assets/img/uploads/09/01.png" %}
 婚礼相册中的最后一张停留在这个街道，我在谷歌地图中通过夏普找到了对应的位置。
 
 
@@ -63,12 +56,11 @@ _And our little son, who was born in secrecy and silence — will he remain apar
 Htet jokingly called it a “Flashmob Wedding”—that day in Yangon, March 27, 2015, when police burst into the ceremony of his wedding to arrest him and the guests scattered in panic. Leafing through the wedding album years later, I recognized the faces of many who later reappeared along the Thai-Myanmar border.  After the 2021 coup, they had all gone into exile along that fragile frontier.
 
 <br>That cinematic moment—of fleeing a wedding—struck me with particular force for how it lingered in geography:
-<figure class="custom-figure">
-    <img src="/blog/assets/img/uploads/09/02.png" alt="Featured image" class="post-cover" />
-</figure>
+{% include post-figure.html src="/assets/img/uploads/09/02.png" %}
 The final photo in the wedding album lingers on this street; I located the corresponding spot on Google Maps through a Sharp storefront.
 
-</div>
+{% endcapture %}
+{% include bilingual-raw.html content=vol1_bilingual_wedding %}
 
 
 
@@ -81,16 +73,11 @@ The final photo in the wedding album lingers on this street; I located the corre
     scrolling="no">
 </iframe> -->
 
-<figure class="custom-figure">
-    <img src="/blog/assets/img/uploads/09/13.png" alt="Featured image" class="post-cover" />
-</figure>
+{% include post-figure.html src="/assets/img/uploads/09/13.png" %}
 
-<figure class="custom-figure">
-    <img src="/blog/assets/img/uploads/09/03.png" alt="Featured image" class="post-cover" />
-</figure>
+{% include post-figure.html src="/assets/img/uploads/09/03.png" %}
 
-<div class="bilingual-raw" markdown="1">
-
+{% capture vol1_bilingual_pansodan %}
 潘素丹大街，在36街和37街中间。事实上，在这条街上，以潘素丹为名的画廊有两间，一间叫Pansodan Art Gallery，另一间叫Pansodan Scene Gallery。根据婚礼现场的提示牌，更大的几率是Pansodan Scene。
 <br>
 <br>
@@ -100,9 +87,7 @@ The final photo in the wedding album lingers on this street; I located the corre
 
 再往南，就是仰光河。
 
-<figure class="custom-figure">
-    <img src="/blog/assets/img/uploads/09/04.png" alt="Featured image" class="post-cover" />
-</figure>
+{% include post-figure.html src="/assets/img/uploads/09/04.png" %}
 在谷歌地图上搜索Pansodan Scene Gallery，一个本地向导Aung Sint Myat的点评帮我定位到了街景。
 
 这间画廊在潘素丹大街上一栋叫作Tejoomal大楼的殖民建筑内。
@@ -124,33 +109,21 @@ By searching for Pansodan Scene Gallery on Google Maps, a review from a local gu
 
 The gallery is housed in a colonial-era building on Pansodan Road, known as the Tejoomal Building.
 
-</div>
+{% endcapture %}
+{% include bilingual-raw.html content=vol1_bilingual_pansodan %}
 
 
-<figure class="custom-figure">
-    <img src="/blog/assets/img/uploads/09/05.png" alt="Featured image" class="post-cover" />
-</figure>
+{% include post-figure.html src="/assets/img/uploads/09/05.png" %}
 
 *这是2025年3月的谷歌街景，政变已经过去4年。*
 
 *This is a Google Street View image from March 2025—four years after the coup.*
-<figure class="custom-figure">
-    <img src="/blog/assets/img/uploads/09/06.png" alt="Featured image" class="post-cover" />
-</figure>
+{% include post-figure.html src="/assets/img/uploads/09/06.png" %}
 
-<div class="bilingual-raw" markdown="1">
-
+{% capture vol1_bilingual_mapillary %}
 我打开Mapilary，在Pansodan Scene附近找到了距离那场婚礼时间最近的一条街景动线，跟着它闯入了屏幕中的仰光。
 
-<figure class="custom-figure">
-    <video controls width="100%">
-        <source src="/blog/assets/img/uploads/09/09.mp4" type="video/mp4">
-        你的浏览器不支持视频播放。
-    </video>
-    <figcaption style="text-align: right; font-size: 0.9em;">
-        mapillary平台上，用户riovictoire上传的一段旅途，记录下了2015年6月仰光的一个下雨天。
-    </figcaption>
-</figure>
+{% include post-video.html src="/assets/img/uploads/09/09.mp4" caption="mapillary平台上，用户riovictoire上传的一段旅途，记录下了2015年6月仰光的一个下雨天。" %}
 
 2015年6月20日，阴雨天。婚礼的三个月后。
 
@@ -176,22 +149,20 @@ June 20th, 2015. A rainy, overcast day. Three months after the Wedding.
 
 On Maha Bandula Road, people moved beneath umbrellas, each bearing a posture—sluggish, flippant, urgent, hesitant, contemplative—each tracing their own temporal rhythm into the sediment of history. Later, they resurfaced through the compression of resolution, rendered not as subjects but as degraded artifacts: poor images fragmented by circulation, ghosted by loss.
 
-</div>
+{% endcapture %}
+{% include bilingual-raw.html content=vol1_bilingual_mapillary %}
 
-<figure class="custom-figure">
-    <img src="/blog/assets/img/uploads/09/10.jpeg" alt="Featured image" class="post-cover" />            
-</figure>
+{% include post-figure.html src="/assets/img/uploads/09/10.jpeg" %}
 
 _对于“春天革命”的流亡者而言，湄索只是一个中转地，一种中间状态，没有人在这里和泰国发生任何关系。它就像两条国境线之间的那个位置，所有在那里的时光都是悬置着的时间。留在这里的人，凭借“革命即将胜利”的希望，在这座城市不可调和的“临时性”中苦苦等待。_
-<p align="right"><i>——斑戈《国境之间：“春天革命”与泰缅边境上的缅甸流亡者》</i></p>
+{% include attribution.html text="——斑戈《国境之间：“春天革命”与泰缅边境上的缅甸流亡者》" %}
 
 *For the exiles of the Spring Revolution, Mae Sot was only a place of transit, a liminal space, where no one had any real contact with Thailand proper. It feels like that spot between borders where time itself is suspended. Those who stayed waited in the irreconcilable temporariness of the town, with the hope that the "revolution will be won soon."*
 
-<p align="right"><i>——Wu Qin “Between Borders: The Spring Revolution and Burmese Exiles on the Thai-Myanmar Border”</i></p>
+{% include attribution.html text="——Wu Qin “Between Borders: The Spring Revolution and Burmese Exiles on the Thai-Myanmar Border”" %}
 
 
-<div class="bilingual-raw" markdown="1">
-
+{% capture vol1_bilingual_maesot %}
 Htet是带我来到湄索的人。2023年2月26日，我们从清迈搭8小时的大巴，翻过泰西达府的重重山脉，一路体会着“佐米亚”逃避统治的地形，最终抵达泰缅边境。这只是我离开中国、抵达柏林前走的一条弯路。而他却是被困在这个时间装置中的人。
 <br>
 <br>
@@ -209,21 +180,11 @@ It was Htet who took me to Mae Sot in the first place. February 26th, 2023. We b
 
 I remain grateful to this detour, to you. It was here I was given the gaze of you— through your eyes, I walked those streets in Yangon, until the fine rain blurred my sight.
 
-<p align="right">禽 Chin  2025.5.12</p>
+{% include attribution.html text="禽 Chin  2025.5.12" em="false" %}
 
-</div>
-
-
-
-> <p style="text-align: center; margin: 0;">《Map Writing · 牵挂的经纬》</p>
->
-> 这是一个从缅甸地图出发的写作专栏，源自《交错带》于春季发起的两场地图写作工作坊。
-> 作品大多游走于真实与虚构之间，采用诗、散文、图片、街景轨迹影像等多种形式。参与者在虚拟街景中寻找那些因地震而刺入心头的图像与词汇，为无法抵达之地赋予感知与意义。
-> 愿我们在遥望中同行。
+{% endcapture %}
+{% include bilingual-raw.html content=vol1_bilingual_maesot %}
 
 
 
-
-
-
-
+{% include map-writing-colophon.html %}

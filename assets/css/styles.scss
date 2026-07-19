@@ -37,3 +37,32 @@
 .quote-box p {
   color: #555;
 }
+
+.figure-caption {
+  font-size: 0.9em;
+}
+
+.figure-caption--right {
+  text-align: right;
+}
+
+.figure-caption--center {
+  text-align: center;
+}
+
+.attribution {
+  text-align: right;
+}
+
+.series-colophon {
+  text-align: center;
+  margin: 2em 0;
+
+  p {
+    margin: 0 0 0.5em;
+  }
+}
+
+.series-colophon__title {
+  margin: 0;
+}
